@@ -72,3 +72,7 @@ footer {
 p {
 	margin: 0 auto;
 }
+
+img {
+	max-height: 200px;
+}
